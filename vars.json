@@ -1,0 +1,11 @@
+{
+  "aws_access_key": "YOUR_AWS_ACCESSKEY,
+  "aws_secret_key": "YOUR_SECRET_KEY,
+  "vpc_region": "us-east-1",
+  "vpc_id": "vpc-",
+  "vpc_public_sn_id": "subnet-",
+  "vpc_public_sg_id": "sg-",
+  "source_ami": "ami-085925f297f89fce1",
+  "instance_type": "t2.micro",
+  "ssh_username": "ubuntu"
+}
